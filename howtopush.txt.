@@ -1,5 +1,6 @@
 git init
 git status
-git add . 
+git add .
+git commit -m "project added" 
 git remote add origin https://github.com/LucCo99/BIT-235-week-9.git
 git push origin master
